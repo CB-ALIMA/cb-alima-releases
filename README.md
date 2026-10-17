@@ -5,7 +5,7 @@ Les fichiers sont dans l'onglet **Releases** (à droite). Windows : `ALIMA.exe`.
 
 ## Droits
 
-© 2026 ALIMA : Clément BILQUE. **Tous droits réservés.**
+© 2026 CB ALIMA : Clément BILQUE. **Tous droits réservés.**
 
 Ces applications sont fournies uniquement pour configurer des cartes ALIMA. Il est interdit de les copier,
 de les modifier, de les décompiler, de les redistribuer ou de les revendre sans accord écrit de ALIMA.
